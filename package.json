@@ -1,0 +1,19 @@
+{
+  "name": "@alexandrkoller/nodevsbrovser",
+  "version": "1.0.0",
+  "main": "dest/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AlexandrKoller/nodevsbrovser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandrKoller/nodevsbrovser/issues"
+  },
+  "homepage": "https://github.com/AlexandrKoller/nodevsbrovser#readme",
+  "description": ""
+}
